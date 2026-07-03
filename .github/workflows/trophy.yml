@@ -1,0 +1,25 @@
+name: GitHub Profile Trophy
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Trophy
+        uses:ryo-ma/github-profile-trophy@v3
+        with:
+          username: Syaptiyan
+          theme: darkhub
+          no-frame: true
+          title_color: 6366f1
+          icon_color: 6366f1
+          border_color: 222222
