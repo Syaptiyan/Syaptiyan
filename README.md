@@ -53,9 +53,9 @@ Passionate about cybersecurity, endpoint management, and building tools that mak
 
 <div align="center">
 
-![Syaptiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syaptiyan&show_icons=true&theme=default&hide_border=true)
+![Syaptiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syaptiyan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syaptiyan&layout=compact&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syaptiyan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
 </div>
 
