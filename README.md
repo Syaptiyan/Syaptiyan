@@ -52,9 +52,9 @@ Passionate about cybersecurity, endpoint management, and building tools that mak
 
 <div align="center">
 
-![Syaptiyan's GitHub stats](https://github-readme-stats-one-steel.vercel.app/api?username=Syaptiyan&show_icons=true&theme=radical&hide_border=true)
+![Syaptiyan's GitHub stats](https://github-readme-stats-one-steel.vercel.app/api?username=Syaptiyan&show_icons=true&theme=radical&hide_border=true&t=20260704)
 
-![Top Langs](https://github-readme-stats-one-steel.vercel.app/api/top-langs/?username=Syaptiyan&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-one-steel.vercel.app/api/top-langs/?username=Syaptiyan&layout=compact&theme=radical&hide_border=true&t=20260704)
 
 </div>
 
