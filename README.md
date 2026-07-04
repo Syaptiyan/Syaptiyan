@@ -43,7 +43,6 @@ Passionate about cybersecurity, endpoint management, and building tools that mak
 |---------|-------------|------|
 | [COVID-19 Indonesia](https://syaptiyan.github.io/covid19/) | Dashboard real-time COVID-19 dengan grafik & ASEAN stats | Chart.js, PWA |
 | [Pahlawan Indonesia](https://syaptiyan.github.io/pahlawan-indo/) | 170+ Pahlawan Nasional dengan filter & statistik | Alpine.js, Tailwind |
-| [Perusahaan Indonesia](https://syaptiyan.github.io/perusahaan-indo/) | Perusahaan besar Indonesia dengan kurs IDR real-time | Alpine.js, API |
 | [Peta Indonesia](https://syaptiyan.github.io/peta-indo/) | Peta interaktif 38 provinsi dengan info gempa BMKG | Alpine.js, BMKG API |
 | [Presiden Indonesia](https://syaptiyan.github.io/presiden-indo/) | Profil 8 Presiden RI dengan timeline interaktif | Alpine.js, Tailwind |
 
@@ -53,9 +52,9 @@ Passionate about cybersecurity, endpoint management, and building tools that mak
 
 <div align="center">
 
-![Syaptiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syaptiyan&show_icons=true&theme=radical&hide_border=true)
+![Syaptiyan's GitHub stats](https://github-readme-stats-one-steel.vercel.app/api?username=Syaptiyan&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syaptiyan&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-one-steel.vercel.app/api/top-langs/?username=Syaptiyan&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
