@@ -41,10 +41,10 @@ Passionate about cybersecurity, endpoint management, and building tools that mak
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [COVID-19 Indonesia](https://syaptiyan.github.io/covid19/) | Dashboard real-time COVID-19 dengan grafik & ASEAN stats | Chart.js, PWA |
-| [Pahlawan Indonesia](https://syaptiyan.github.io/pahlawan-indo/) | 170+ Pahlawan Nasional dengan filter & statistik | Alpine.js, Tailwind |
-| [Peta Indonesia](https://syaptiyan.github.io/peta-indo/) | Peta interaktif 38 provinsi dengan info gempa BMKG | Alpine.js, BMKG API |
-| [Presiden Indonesia](https://syaptiyan.github.io/presiden-indo/) | Profil 8 Presiden RI dengan timeline interaktif | Alpine.js, Tailwind |
+| [COVID-19 Indonesia](https://syaptiyan.github.io/covid19-indonesia/) | Dashboard real-time COVID-19 dengan grafik & ASEAN stats | Chart.js, PWA |
+| [Pahlawan Indonesia](https://syaptiyan.github.io/pahlawan-indonesia/) | 170+ Pahlawan Nasional dengan filter & statistik | Alpine.js, Tailwind |
+| [Peta Indonesia](https://syaptiyan.github.io/peta-indonesia/) | Peta interaktif 38 provinsi dengan info gempa BMKG | Alpine.js, BMKG API |
+| [Presiden Indonesia](https://syaptiyan.github.io/presiden-indonesia/) | Profil 8 Presiden RI dengan timeline interaktif | Alpine.js, Tailwind |
 
 ---
 
